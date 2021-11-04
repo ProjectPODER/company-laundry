@@ -2,7 +2,7 @@
 
 ## Install
 
-    npm install git+http://git@gitlab.rindecuentas.org/equipo-qqw/company-laundry.git
+    npm install git+http://git@github.com/ProjectPODER/company-laundry.git
 
 ## Usage
 
